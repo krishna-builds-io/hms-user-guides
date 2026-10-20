@@ -1,0 +1,36 @@
+{
+  "sidebar": [
+    {
+      "label": "Inpatient Manual",
+      "items": [
+        "inpatient-manual/introduction.md",
+        {
+          "label": "General Inpatient Flow",
+          "items": [
+            "inpatient-manual/general-inpatient-flow/patient-registration.md",
+            "inpatient-manual/general-inpatient-flow/inpatient-admission.md",
+            "inpatient-manual/general-inpatient-flow/during-the-stay.md",
+            "inpatient-manual/general-inpatient-flow/discharge-billing-and-payment.md",
+            "inpatient-manual/general-inpatient-flow/cancellation.md"
+          ]
+        },
+        {
+          "label": "Ward Workflows",
+          "items": [
+            "inpatient-manual/ward-workflows/overview.md",
+            "inpatient-manual/ward-workflows/lab-test.md",
+            "inpatient-manual/ward-workflows/radiology.md",
+            "inpatient-manual/ward-workflows/clinical-procedure.md",
+            "inpatient-manual/ward-workflows/discharge-summary.md",
+            "inpatient-manual/ward-workflows/pharmacy-medication.md",
+            "inpatient-manual/ward-workflows/surgery.md"
+          ]
+        },
+        "inpatient-manual/corporate-workflow.md",
+        "inpatient-manual/insurance-workflow.md",
+        "inpatient-manual/ip-refund.md",
+        "inpatient-manual/bulk-payment.md"
+      ]
+    }
+  ]
+}
