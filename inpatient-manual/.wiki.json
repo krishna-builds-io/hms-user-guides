@@ -1,0 +1,31 @@
+{
+  "sidebar": [
+    "introduction.md",
+    {
+      "label": "General Inpatient Flow",
+      "items": [
+        "general-inpatient-flow/patient-registration.md",
+        "general-inpatient-flow/inpatient-admission.md",
+        "general-inpatient-flow/during-the-stay.md",
+        "general-inpatient-flow/discharge-billing-and-payment.md",
+        "general-inpatient-flow/cancellation.md"
+      ]
+    },
+    {
+      "label": "Ward Workflows",
+      "items": [
+        "ward-workflows/overview.md",
+        "ward-workflows/lab-test.md",
+        "ward-workflows/radiology.md",
+        "ward-workflows/clinical-procedure.md",
+        "ward-workflows/discharge-summary.md",
+        "ward-workflows/pharmacy-medication.md",
+        "ward-workflows/surgery.md"
+      ]
+    },
+    "corporate-workflow.md",
+    "insurance-workflow.md",
+    "ip-refund.md",
+    "bulk-payment.md"
+  ]
+}
